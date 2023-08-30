@@ -1,0 +1,11 @@
+# Ignore Cargo.lock
+Cargo.lock
+
+# Ignore target directory
+/target/
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore rustfmt.toml
+rustfmt.toml
